@@ -35,5 +35,15 @@ npm run test:e2e
 npm run test:unit
 ```
 
+### Run your docs build
+```
+npm run docs:build
+```
+### Run your docs dev
+```
+npm run docs:serve
+```
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
