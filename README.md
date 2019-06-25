@@ -1,4 +1,4 @@
-#vue-preset
+# vue-preset
 
 ## Project setup
 ```
